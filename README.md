@@ -24,7 +24,7 @@
 | Project | Description | Highlights |
 |---|---|---|
 | **[Way of Kings: Tower Defense](https://play.google.com/store/apps/details?id=com.gameflex.wayofkings)** | Multiplayer mobile tower defense (GameFlex) | ScriptableObject character pipeline · Extenject DI · REST backend · live missions & rewards · avatar customization · custom localization pipeline |
-| **Jelly Fuse** | Jelly-merging puzzle game, solo dev, self-published on Google Play | Signal-driven IoC architecture · shape-aware booster system · Unity Gaming Services & Google Play Games cloud save · Addressables & sprite atlases |
+| **Jelly Fuse** · [▶ Play on itch.io](https://horseman7.itch.io/jelly-fuse) | Jelly-merging puzzle game, solo dev, self-published on Google Play | Signal-driven IoC architecture · shape-aware booster system · Unity Gaming Services & Google Play Games cloud save · Addressables & sprite atlases |
 | **[Cubes](https://github.com/talhaenesdev/Cubes)** · [▶ Play on itch.io](https://horseman7.itch.io/cubes) | Noir side-on stealth-shooter: take over the city's shops one at a time from rival shape families (Windows & Android) | Shop economy that earns in real time, even while the game is closed · rival-family raids · modular FlowIoC architecture · EN/TR localization · Unity 6 |
 | **[Taskbar Legends](https://github.com/talhaenesdev/Taskbar-Legends)** | Solo Leveling-themed idle RPG that lives in a strip above the Windows taskbar | Borderless always-on-top docked window · idle auto-battle with a 5-hero party · level-up card choices · floors, bosses & E–S ranks · signal-driven modules |
 
