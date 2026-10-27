@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Talha Enes 👋
 
-<!--
-**talhaenesdev/talhaenesdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Unity Game Developer specializing in mobile and PC games.
 
-Here are some ideas to get you started:
+I develop gameplay systems, user interfaces, optimization solutions,
+and platform-ready builds for Android, iOS, and Windows.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+- Unity & C#
+- 2D and 3D Game Development
+- Mobile and PC Games
+- Gameplay Programming
+- UI Systems and Animations
+- Performance Optimization
+- Git and GitHub
+
+## Featured Projects
+
+### Project Name
+Short description of the game and your contribution.
+
+- Platform: Android / Windows
+- Technologies: Unity, C#
+- Features: Save system, AI, inventory, mobile controls
+- [Gameplay Video](link)
+- [Repository](link)
+
+## Contact
+
+- [LinkedIn](https://www.linkedin.com/in/talhaenes-dev/)
+- Email: talha.enes1996@gmail.com
